@@ -1,91 +1,59 @@
 {
-  "users": [
-    {
-      "hwid": "4F3D-0091-52CE-FA27",
-      "days": 7,
-      "note": "Dec 07, 2025 - 5:04pm"
-    },
-    {
-      "hwid": "E583-660C-D082-CF62",
-      "days": 7,
-      "note": "Dec 07, 2025 - 5:31pm"
-    },
-    {
-      "hwid": "D647-9964-B983-98E6",
-      "days": 7,
-      "note": "Dec 07, 2025 - 8:49pm"
-    },
-    {
-      "hwid": "C698-2296-14C7-3171",
-      "days": 7,
-      "note": "Dec 12, 2025 - 9:02am"
-    },
-
-    {
-      "hwid": "F8F3-857A-AF1A-4445",
-      "days": "1",
-      "note": "MY HWID"
-    },
-    {
-      "hwid": "60DE-F80F-00C6-EE85",
-      "days": "lifetime",
-      "note": "Tupac HWID"
-    },
-    {
-      "hwid": "F9A0-3B8D-AAF3-C88F",
-      "days": "lifetime",
-      "note": "Nerooo HWID"
-    },
-    {
-      "hwid": "2D38-3AA6-E87A-7B17",
-      "days": "lifetime"
-    },
-    {
-      "hwid": "43F9-1BFC-E688-A49B",
-      "days": "lifetime",
-      "note": "Doc HWID"
-    },
-    {
-      "hwid": "408B-BE0C-F4D9-A92D",
-      "days": "lifetime",
-      "note": "Mxvss HWID"
-    },
-    {
-      "hwid": "D2A5-B33F-56A9-E3BC",
-      "days": "lifetime",
-      "note": "Mann1 HWID"
-    },
-    {
-      "hwid": "5A94-4F0E-BFC9-BC78",
-      "days": "lifetime",
-      "note": "Mann2 HWID"
-    },
-    {
-      "hwid": "6A0F-6C74-C362-3062",
-      "days": "lifetime",
-      "note": "Dodong HWID"
-    },
-    {
-      "hwid": "BDA3-50A7-E667-D0DE",
-      "days": "lifetime",
-      "note": "GmbH HWID"
-    },
-    {
-      "hwid": "235E-3F6F-3940-948E",
-      "days": "lifetime",
-      "note": "Satoru HWID"
-    },
-    {
-      "hwid": "7E22-36B5-3943-B9CE",
-      "days": "lifetime",
-      "note": "Satoru Customer HWID"
-    },
-    {
-      "hwid": "6EF7-AB00-89E5-1855",
-      "days": "lifetime",
-      "note": "Tupac Customer HWID"
-    }
+  "4day": [
+    "0000-0000-0000-0000",
+    "0000-0000-0000-0000",
+    "0000-0000-0000-0000",
+    "0000-0000-0000-0000",
+    "0000-0000-0000-0000",
+    "0000-0000-0000-0000",
+    "0000-0000-0000-0000",
+    "0000-0000-0000-0000"
+  ],
+  "7day": [
+    "4F3D-0091-52CE-FA27", //Dec 07, 2025 - 5:04pm
+    "E583-660C-D082-CF62", //Dec 07, 2025 - 5:31pm
+    "D647-9964-B983-98E6", //Dec 07, 2025 - 8:49pm
+    "C698-2296-14C7-3171", //Dec 12, 2025 - 9:02am
+    "0000-0000-0000-0000",
+    "0000-0000-0000-0000",
+    "0000-0000-0000-0000",
+    "0000-0000-0000-0000"
+  ],
+  "15day": [
+    "0000-0000-0000-0000",
+    "0000-0000-0000-0000",
+    "0000-0000-0000-0000",
+    "0000-0000-0000-0000",
+    "0000-0000-0000-0000",
+    "0000-0000-0000-0000",
+    "0000-0000-0000-0000"
+  ],
+  "lifetime": [
+    "F8F3-857A-AF1A-4445", //MY HWID
+    "60DE-F80F-00C6-EE85", //Tupac HWID
+    "F9A0-3B8D-AAF3-C88F", //Nerooo HWID
+    "2D38-3AA6-E87A-7B17", 
+    "43F9-1BFC-E688-A49B", //Doc HWID
+    "408B-BE0C-F4D9-A92D", //Mxvss HWID
+    "D2A5-B33F-56A9-E3BC", //Mann1 HWID
+    "5A94-4F0E-BFC9-BC78", //Mann2 HWID
+    "6A0F-6C74-C362-3062", //Dodong HWID
+    "BDA3-50A7-E667-D0DE", //GmbH HWID
+    "235E-3F6F-3940-948E", //Satoru HWID
+    "7E22-36B5-3943-B9CE", //Satoru Customer HWID
+    "6EF7-AB00-89E5-1855", //Tupac Customer HWID
+    "0000-0000-0000-0000",
+    "0000-0000-0000-0000",
+    "0000-0000-0000-0000",
+    "0000-0000-0000-0000",
+    "0000-0000-0000-0000",
+    "0000-0000-0000-0000",
+    "0000-0000-0000-0000",
+    "0000-0000-0000-0000",
+    "0000-0000-0000-0000",
+    "0000-0000-0000-0000",
+    "0000-0000-0000-0000",
+    "0000-0000-0000-0000",
+    "0000-0000-0000-0000"
   ]
 }
-
-
