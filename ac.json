@@ -23,7 +23,7 @@
 
     {
       "hwid": "F8F3-857A-AF1A-4445",
-      "days": "lifetime",
+      "days": "999",
       "note": "MY HWID"
     },
     {
@@ -87,3 +87,4 @@
     }
   ]
 }
+
