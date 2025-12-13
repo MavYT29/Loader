@@ -37,7 +37,7 @@
     "408B-BE0C-F4D9-A92D", //Mxvss HWID
     "D2A5-B33F-56A9-E3BC", //Mann1 HWID
     "5A94-4F0E-BFC9-BC78", //Mann2 HWID
-    "6A0F-6C74-C362-3062", //Dodong HWID
+    "0A1C-4B8D-422F-B127", //Dodong HWID
     "DC25-0B5A-F435-B232", //GmbH HWID
     "235E-3F6F-3940-948E", //Satoru HWID
     "7E22-36B5-3943-B9CE", //Satoru Customer HWID
@@ -57,5 +57,6 @@
     "0000-0000-0000-0000"
   ]
 }
+
 
 
