@@ -35,7 +35,7 @@
     "2D38-3AA6-E87A-7B17", 
     "43F9-1BFC-E688-A49B", //Doc HWID
     "408B-BE0C-F4D9-A92D", //Mxvss HWID
-    "D2A5-B33F-56A9-E3BC", //Mann1 HWID
+    "33D1-37A8-8D55-1C40", //Mann1 HWID
     "5A94-4F0E-BFC9-BC78", //Mann2 HWID
     "0A1C-4B8D-422F-B127", //Dodong HWID
     "DC25-0B5A-F435-B232", //GmbH HWID
@@ -57,6 +57,7 @@
     "0000-0000-0000-0000"
   ]
 }
+
 
 
 
