@@ -1,27 +1,9 @@
 {
   "authorized_hwids": {
-    "customer1": {
-      "hwids": [
-        "HWID-AAA-111",
-        "HWID-BBB-222"
-      ],
+    "customername": {
+      "hwids": ["HWID"],
       "plan": "4day",
       "status": "active"
-    },
-    "customer2": {
-      "hwids": [
-        "HWID-CCC-333"
-      ],
-      "plan": "7day",
-      "status": "active"
-    },
-    "customer3": {
-      "hwids": [
-        "c12a371a793e0819fce0933206423959",
-        "HWID-EEE-555"
-      ],
-      "plan": "lifetime",
-      "status": "expired"
     }
   }
 }
