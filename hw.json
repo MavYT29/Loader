@@ -1,10 +1,11 @@
 {
   "authorized_hwids": {
     "customername": {
-      "hwids": ["c12a371a793e0819fce0933206423959"],
+      "hwids": ["22fffa85f9fb06be1f941b9044e2e8b9"],
       "plan": "4day",
       "status": "active"
     }
   }
 }
+
 
