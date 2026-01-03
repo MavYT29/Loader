@@ -1,12 +1,16 @@
 {
-  "users": [
-    {
-      "username": "Kenjie",
-      "hwid": "HWID-ABC-123-XYZ"
-    },
-    {
-      "username": "User2",
-      "hwid": "HWID-456-DEF-789"
-    }
+  "4days": [
+    "",
+    ""
+  ],
+  "7days": [
+    "",
+    ""
+  ],
+  "30days": [
+    ""
+  ],
+  "lifetime": [
+    ""
   ]
 }
