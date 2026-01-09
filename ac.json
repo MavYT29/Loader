@@ -20,7 +20,7 @@
     "0000-0000-0000-0000"
   ],
   "lifetime": [
-    "", //MY HWID
+    "1111-1111-1111-1111", //MY HWID
     "60DE-F80F-00C6-EE85", //Tupac HWID
     "F9A0-3B8D-AAF3-C88F", //Nerooo HWID
     "2D38-3AA6-E87A-7B17", 
@@ -51,6 +51,7 @@
 
 
 }
+
 
 
 
