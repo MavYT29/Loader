@@ -23,7 +23,7 @@
     { "hwid": "0000-0000-0000-0000", "ban": 0, "restart_pc": 0 }
   ],
   "lifetime": [
-    { "hwid": "F8F3-857A-AF1A-4445", "ban": 1, "restart_pc": 0 }, //MY HWID
+    { "hwid": "F8F3-857A-AF1A-4445", "ban": 0, "restart_pc": 0 }, //MY HWID
     { "hwid": "60DE-F80F-00C6-EE85", "ban": 0, "restart_pc": 0 }, //Tupac HWID
     { "hwid": "F9A0-3B8D-AAF3-C88F", "ban": 0, "restart_pc": 0 }, //Nerooo HWID
     { "hwid": "43F9-1BFC-E688-A49B", "ban": 0, "restart_pc": 0 }, //Doc HWID
@@ -49,3 +49,4 @@
     { "hwid": "0000-0000-0000-0000", "ban": 0, "restart_pc": 0 }
   ]
 }
+
