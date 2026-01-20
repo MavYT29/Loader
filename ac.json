@@ -1,52 +1,95 @@
 {
   "4day": [
-    { "hwid": "EC8B-F3C7-4DEE-959D", "ban": 0, "restart_pc": 0 }, //Jan 20, 2026 KangKong
-    { "hwid": "E1D0-7CD0-1BF7-9301", "ban": 0, "restart_pc": 0 }, //Jan 17, 2026 8:07pm
-    { "hwid": "9471-8445-0FA3-5B3F", "ban": 0, "restart_pc": 0 }, //Jan 18, 2026 7:48am
-    { "hwid": "9AA5-83D8-300E-0EF3", "ban": 0, "restart_pc": 0 }, //Jan 19, 2026 3:34pm
-    { "hwid": "0000-0000-0000-0000", "ban": 0, "restart_pc": 0 }
+    "EC8B-F3C7-4DEE-959D", //Jan 20, 2026 KangKong
+    "E1D0-7CD0-1BF7-9301", //Jan 17, 2026 8:07pm
+    "9471-8445-0FA3-5B3F", //Jan 18, 2026 7:48am
+    "9AA5-83D8-300E-0EF3", //Jan 19, 2026 3:34pm
+    "0000-0000-0000-0000"
   ],
   "7day": [
-    { "hwid": "B4DC-E1D6-BA42-7A1F", "ban": 0, "restart_pc": 0 }, //Jan 19, 2026 10:07pm
-    { "hwid": "0000-0000-0000-0000", "ban": 0, "restart_pc": 0 },
-    { "hwid": "0000-0000-0000-0000", "ban": 0, "restart_pc": 0 },
-    { "hwid": "0000-0000-0000-0000", "ban": 0, "restart_pc": 0 },
-    { "hwid": "0000-0000-0000-0000", "ban": 0, "restart_pc": 0 },
-    { "hwid": "0000-0000-0000-0000", "ban": 0, "restart_pc": 0 }
+    "B4DC-E1D6-BA42-7A1F", //Jan 19, 2026 10:07pm
+    "0000-0000-0000-0000",
+    "0000-0000-0000-0000",
+    "0000-0000-0000-0000",
+    "0000-0000-0000-0000",
+    "0000-0000-0000-0000"
   ],
   "15day": [
-    { "hwid": "0000-0000-0000-0000", "ban": 0, "restart_pc": 0 },
-    { "hwid": "0000-0000-0000-0000", "ban": 0, "restart_pc": 0 },
-    { "hwid": "0000-0000-0000-0000", "ban": 0, "restart_pc": 0 },
-    { "hwid": "0000-0000-0000-0000", "ban": 0, "restart_pc": 0 },
-    { "hwid": "0000-0000-0000-0000", "ban": 0, "restart_pc": 0 },
-    { "hwid": "0000-0000-0000-0000", "ban": 0, "restart_pc": 0 }
+    "0000-0000-0000-0000",
+    "0000-0000-0000-0000",
+    "0000-0000-0000-0000",
+    "0000-0000-0000-0000",
+    "0000-0000-0000-0000",
+    "0000-0000-0000-0000"
   ],
   "lifetime": [
-    { "hwid": "F8F3-857A-AF1A-4445", "ban": 0, "restart_pc": 0 }, //MY HWID
-    { "hwid": "60DE-F80F-00C6-EE85", "ban": 0, "restart_pc": 0 }, //Tupac HWID
-    { "hwid": "F9A0-3B8D-AAF3-C88F", "ban": 0, "restart_pc": 0 }, //Nerooo HWID
-    { "hwid": "43F9-1BFC-E688-A49B", "ban": 0, "restart_pc": 0 }, //Doc HWID
-    { "hwid": "408B-BE0C-F4D9-A92D", "ban": 0, "restart_pc": 0 }, //Mxvss HWID
-    { "hwid": "33D1-37A8-8D55-1C40", "ban": 0, "restart_pc": 0 }, //Mann1 HWID
-    { "hwid": "5A94-4F0E-BFC9-BC78", "ban": 0, "restart_pc": 0 }, //Mann2 HWID
-    { "hwid": "6A0F-6C74-C362-3062", "ban": 0, "restart_pc": 0 }, //Dodong HWID
-    { "hwid": "A296-8EEB-D68F-466A", "ban": 0, "restart_pc": 0 }, //GmbH HWID
-    { "hwid": "374F-F60E-5D12-DB23", "ban": 0, "restart_pc": 0 }, //Satoru HWID
-    { "hwid": "7E22-36B5-3943-B9CE", "ban": 0, "restart_pc": 0 }, //Satoru Customer HWID
-    { "hwid": "6EF7-AB00-89E5-1855", "ban": 0, "restart_pc": 0 }, //Tupac Customer HWID
-    { "hwid": "5C78-6FF0-3993-C685", "ban": 0, "restart_pc": 0 }, //Satoru Customer HWID
-    { "hwid": "DD4D-7138-4F3B-BBE9", "ban": 0, "restart_pc": 0 }, //Sigbin - HevAbisaya HWID
-    { "hwid": "C698-2296-14C7-3171", "ban": 0, "restart_pc": 0 }, //FliperCobra HWID 
-    { "hwid": "555D-4614-4E47-729C", "ban": 0, "restart_pc": 0 }, //haejiadji HWID
-    { "hwid": "CE77-C5E9-C852-2238", "ban": 0, "restart_pc": 0 }, //mjppanisal HWID
-    { "hwid": "CD2E-A6A6-BA2F-C52C", "ban": 0, "restart_pc": 0 }, //zacky HWID
-    { "hwid": "AE6B-4FD0-38A0-FD53", "ban": 0, "restart_pc": 0 }, //Pezzimyzt HWID
-    { "hwid": "936A-2ED2-CC06-056D", "ban": 0, "restart_pc": 0 }, //elvengwaps HWID
-    { "hwid": "9830-CF5E-C998-3DD5", "ban": 0, "restart_pc": 0 }, //makulit HWID
-    { "hwid": "0000-0000-0000-0000", "ban": 0, "restart_pc": 0 },
-    { "hwid": "0000-0000-0000-0000", "ban": 0, "restart_pc": 0 },
-    { "hwid": "0000-0000-0000-0000", "ban": 0, "restart_pc": 0 }
+    "F8F3-857A-AF1A-4445", //MY HWID
+    "60DE-F80F-00C6-EE85", //Tupac HWID
+    "F9A0-3B8D-AAF3-C88F", //Nerooo HWID
+    "43F9-1BFC-E688-A49B", //Doc HWID
+    "408B-BE0C-F4D9-A92D", //Mxvss HWID
+    "33D1-37A8-8D55-1C40", //Mann1 HWID
+    "5A94-4F0E-BFC9-BC78", //Mann2 HWID
+    "6A0F-6C74-C362-3062", //Dodong HWID
+    "A296-8EEB-D68F-466A", //GmbH HWID
+    "374F-F60E-5D12-DB23", //Satoru HWID
+    "7E22-36B5-3943-B9CE", //Satoru Customer HWID
+    "6EF7-AB00-89E5-1855", //Tupac Customer HWID
+    "5C78-6FF0-3993-C685", //Satoru Customer HWID
+    "DD4D-7138-4F3B-BBE9", //Sigbin - HevAbisaya HWID
+    "C698-2296-14C7-3171", //FliperCobra HWID 
+    "555D-4614-4E47-729C", //haejiadji HWID
+    "CE77-C5E9-C852-2238", //mjppanisal HWID
+    "CD2E-A6A6-BA2F-C52C", //zacky HWID
+    "AE6B-4FD0-38A0-FD53", //Pezzimyzt HWID
+    "936A-2ED2-CC06-056D", //elvengwaps HWID
+    "9830-CF5E-C998-3DD5", //makulit HWID
+    "0000-0000-0000-0000",
+    "0000-0000-0000-0000",
+    "0000-0000-0000-0000"
   ]
+
+
+
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
