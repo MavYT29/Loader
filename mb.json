@@ -1,7 +1,8 @@
 {
-  "activate": ["1"],
+  "activate": ["0"],
   "restart_pc": ["0"]
 }
+
 
 
 
