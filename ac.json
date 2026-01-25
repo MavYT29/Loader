@@ -1,7 +1,6 @@
 {
   "4day": [
     "2486-68D1-A565-9C9F", //Jan 22, 2026 10:30am
-    "83BE-550F-6AF3-6AF0", //Jan 22, 2026 11:26am
     "A0B5-5CFF-7E1B-FF2D", //Jan 23, 2026 1:20pm
     "9AA5-83D8-300E-0EF3", //Jan 23, 2026 1:20pm
     "D647-9964-B983-98E6", //Jan 24, 2026 7:30pm
@@ -50,7 +49,7 @@
     "9471-8445-0FA3-5B3F", //Vex HWID
     "F7F5-C169-8B11-3C52", //angeloegasan HWID
     "F731-DD4A-85F4-BC7F", //Kangkong HWID
-    "",
+    "83BE-550F-6AF3-6AF0", //Jorge HWID
     "",
     "",
     ""
@@ -59,6 +58,7 @@
 
 
 }
+
 
 
 
