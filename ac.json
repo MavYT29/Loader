@@ -9,7 +9,7 @@
   {"hwid": "DC08-BCF9-4C5A-184E", "subscription": "15day", "type": "FULL PREM"}, //Jan 26, 2026 5:40pm
   {"hwid": "0000-0000-0000-0000", "subscription": "15day", "type": "SIMPLE"},
   
-  {"hwid": "F8F3-857A-AF1A-4445", "subscription": "lifetime", "type": "SIMPLE"}, //MY HWID
+  {"hwid": "F8F3-857A-AF1A-4445", "subscription": "lifetime", "type": "MB"}, //MY HWID
   {"hwid": "60DE-F80F-00C6-EE85", "subscription": "lifetime", "type": "FULL PREM"}, //Tupac
   {"hwid": "F9A0-3B8D-AAF3-C88F", "subscription": "lifetime", "type": "FULL PREM"}, //Cresiya
   {"hwid": "43F9-1BFC-E688-A49B", "subscription": "lifetime", "type": "FULL PREM"}, //Doc
@@ -38,3 +38,4 @@
   {"hwid": "", "subscription": "lifetime", "type": "MB"},
   {"hwid": "", "subscription": "lifetime", "type": "MB"}
 ]
+
