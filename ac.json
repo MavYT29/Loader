@@ -1,141 +1,40 @@
-{
-  "4day": [
-    "9AA5-83D8-300E-0EF3", //Jan 30, 2026 8:10pm
-    "6AE0-283B-FBFC-D27F", //Jan 31, 2026 11:27pm
-    "A145-F80C-95BE-5645", //Feb 03, 2026 12:11pm
-    "0000-0000-0000-0000",
-    "0000-0000-0000-0000",
-    "0000-0000-0000-0000",
-    "0000-0000-0000-0000",
-    "0000-0000-0000-0000",
-    "0000-0000-0000-0000",
-    "0000-0000-0000-0000",
-    "0000-0000-0000-0000",
-    "0000-0000-0000-0000",
-    "0000-0000-0000-0000",
-    "0000-0000-0000-0000",
-    "0000-0000-0000-0000",
-    "0000-0000-0000-0000",
-    "0000-0000-0000-0000"
-    
-  ],
-  "7day": [
-    "0000-0000-0000-0000",
-    "0000-0000-0000-0000",
-    "0000-0000-0000-0000",
-    "0000-0000-0000-0000",
-    "0000-0000-0000-0000"
-  ],
-  "15day": [
-    "DC08-BCF9-4C5A-184E", //Jan 26, 2026 5:40pm
-    "0000-0000-0000-0000",
-    "0000-0000-0000-0000",
-    "0000-0000-0000-0000",
-    "0000-0000-0000-0000",
-    "0000-0000-0000-0000"
-  ],
-  "lifetime": [
-    "F8F3-857A-AF1A-4445", //MY HWID
-    "60DE-F80F-00C6-EE85", //Tupac HWID
-    "F9A0-3B8D-AAF3-C88F", //Cresiya HWID
-    "43F9-1BFC-E688-A49B", //Doc HWID
-    "408B-BE0C-F4D9-A92D", //Mxvss HWID
-    "33D1-37A8-8D55-1C40", //Mann1 HWID
-    "5A94-4F0E-BFC9-BC78", //Mann2 HWID
-    "6A0F-6C74-C362-3062", //Dodong HWID
-    "58D5-3999-2DD7-F107", //GmbH HWID
-    "374F-F60E-5D12-DB23", //Satoru HWID
-    "7E22-36B5-3943-B9CE", //Satoru Customer HWID
-    "6EF7-AB00-89E5-1855", //Tupac Customer HWID
-    "5C78-6FF0-3993-C685", //Satoru Customer HWID
-    "DD4D-7138-4F3B-BBE9", //Sigbin - HevAbisaya HWID
-    "C698-2296-14C7-3171", //FliperCobra HWID 
-    "555D-4614-4E47-729C", //haejiadji HWID
-    "CE77-C5E9-C852-2238", //mjppanisal HWID
-    "F2BA-D6F8-D0B0-3295", //zacky HWID - January 1reset
-    "AE6B-4FD0-38A0-FD53", //Pezzimyzt HWID
-    "936A-2ED2-CC06-056D", //elvengwaps HWID
-    "9471-8445-0FA3-5B3F", //Vex HWID
-    "F7F5-C169-8B11-3C52", //angeloegasan HWID
-    "F731-DD4A-85F4-BC7F", //Kangkong HWID
-    "83BE-550F-6AF3-6AF0", //Jorge HWID
-    "",
-    "",
-    ""
-  ]
-
-
-
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[
+  {"hwid": "6AE0-283B-FBFC-D27F", "subscription": "4day", "type": "FULL PREM"}, //Jan 31, 2026 11:27pm
+  {"hwid": "A145-F80C-95BE-5645", "subscription": "4day", "type": "FULL PREM"}, //Feb 03, 2026 12:11pm
+  {"hwid": "0000-0000-0000-0000", "subscription": "4day", "type": "SIMPLE"},
+  
+  {"hwid": "0000-0000-0000-0000", "subscription": "7day", "type": "SIMPLE"},
+  {"hwid": "0000-0000-0000-0000", "subscription": "7day", "type": "SIMPLE"},
+  
+  {"hwid": "DC08-BCF9-4C5A-184E", "subscription": "15day", "type": "FULL PREM"}, //Jan 26, 2026 5:40pm
+  {"hwid": "0000-0000-0000-0000", "subscription": "15day", "type": "SIMPLE"},
+  
+  {"hwid": "F8F3-857A-AF1A-4445", "subscription": "lifetime", "type": "SIMPLE"}, //MY HWID
+  {"hwid": "60DE-F80F-00C6-EE85", "subscription": "lifetime", "type": "FULL PREM"}, //Tupac
+  {"hwid": "F9A0-3B8D-AAF3-C88F", "subscription": "lifetime", "type": "FULL PREM"}, //Cresiya
+  {"hwid": "43F9-1BFC-E688-A49B", "subscription": "lifetime", "type": "FULL PREM"}, //Doc
+  {"hwid": "408B-BE0C-F4D9-A92D", "subscription": "lifetime", "type": "FULL PREM"}, //Mxvss
+  {"hwid": "33D1-37A8-8D55-1C40", "subscription": "lifetime", "type": "FULL PREM"}, //Man customer
+  {"hwid": "5A94-4F0E-BFC9-BC78", "subscription": "lifetime", "type": "FULL PREM"}, //Man customer
+  {"hwid": "6A0F-6C74-C362-3062", "subscription": "lifetime", "type": "FULL PREM"}, //Dodong
+  {"hwid": "58D5-3999-2DD7-F107", "subscription": "lifetime", "type": "FULL PREM"}, //GmbH
+  {"hwid": "374F-F60E-5D12-DB23", "subscription": "lifetime", "type": "FULL PREM"}, //Satoru
+  {"hwid": "7E22-36B5-3943-B9CE", "subscription": "lifetime", "type": "FULL PREM"}, //Satoru customer
+  {"hwid": "6EF7-AB00-89E5-1855", "subscription": "lifetime", "type": "FULL PREM"}, //Tupac customer
+  {"hwid": "5C78-6FF0-3993-C685", "subscription": "lifetime", "type": "FULL PREM"}, //Satoru customer
+  {"hwid": "DD4D-7138-4F3B-BBE9", "subscription": "lifetime", "type": "FULL PREM"}, //Sigbin - HevAbisaya
+  {"hwid": "C698-2296-14C7-3171", "subscription": "lifetime", "type": "FULL PREM"}, //FliperCobra
+  {"hwid": "555D-4614-4E47-729C", "subscription": "lifetime", "type": "FULL PREM"}, //haejiadji
+  {"hwid": "CE77-C5E9-C852-2238", "subscription": "lifetime", "type": "FULL PREM"}, //mjppanisal
+  {"hwid": "F2BA-D6F8-D0B0-3295", "subscription": "lifetime", "type": "FULL PREM"}, //zacky
+  {"hwid": "AE6B-4FD0-38A0-FD53", "subscription": "lifetime", "type": "FULL PREM"}, //Pezzimyzt
+  {"hwid": "936A-2ED2-CC06-056D", "subscription": "lifetime", "type": "FULL PREM"}, //elvengwaps
+  {"hwid": "9471-8445-0FA3-5B3F", "subscription": "lifetime", "type": "FULL PREM"}, //Vex
+  {"hwid": "F7F5-C169-8B11-3C52", "subscription": "lifetime", "type": "FULL PREM"}, //angeloegasan
+  {"hwid": "F731-DD4A-85F4-BC7F", "subscription": "lifetime", "type": "FULL PREM"}, //Kangkong
+  {"hwid": "83BE-550F-6AF3-6AF0", "subscription": "lifetime", "type": "FULL PREM"}, //Jorge
+  
+  {"hwid": "", "subscription": "lifetime", "type": "SIMPLE"},
+  {"hwid": "", "subscription": "lifetime", "type": "MB"},
+  {"hwid": "", "subscription": "lifetime", "type": "MB"}
+]
